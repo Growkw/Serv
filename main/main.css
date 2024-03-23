@@ -154,13 +154,10 @@ body {
 }
 
 body{
-background-color: #8f85ff;
-    font-family: PT Astra Sans;
-    text-align: center;
-    color: #e8e6fc;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+background-color:#8f85ff;
+font-family: PT Astra Sans;
+text-align:center;
+color:#e8e6fc;
 }
 .footer #block{
 position:relative;
