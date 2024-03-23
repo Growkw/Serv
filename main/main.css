@@ -207,4 +207,8 @@ body {
    margin-top:69px;
    margin-left:39px;  
 }
+.footer .symbol {
+    width: 30px;
+    height: 30px;
+}
 </style>
