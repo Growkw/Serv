@@ -54,6 +54,8 @@ nav {
 }
 
 .titles_first {
+    display: flex;
+    alight-items:flexstart;
     font-size: 40px;
     color: #fff;
     text-transform: uppercase;
