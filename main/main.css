@@ -108,6 +108,7 @@ h1 {
     margin-top: 50px;
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .Services_item {
@@ -123,6 +124,7 @@ h1 {
     color: #777777;
     font-size: 14px;
 }
+
 .Services_item:last-child {
     margin-left: 60px;
 }
