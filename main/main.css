@@ -21,8 +21,6 @@ div {
 }
 
 .container {
-    display: flex;
-    flex-wpar:wpap;
     width: 930px;
     border: 10px;
     margin: 0 auto;
@@ -55,12 +53,8 @@ nav {
     font-size: 14px;
 }
 
-.titles {
-    display: flex;
-    flex-wpar:wrap;
+
 .titles_first {
-    display: flex;
-    flex-wpar:wrap;
     font-size: 40px;
     color: #fff;
     text-transform: uppercase;
@@ -117,33 +111,23 @@ h1 {
 }
 
 .Services_item {
-    display:flex;
-    alight-item:flex-start;
     width: 270px;
     text-align: center;
 }
 
 .Services_item h3 {
-    display:flex;
-    alight-item:flex-start;
     font-size: 18px;
 }
 
 .Services_item p {
-    display:flex;
-    alight-item:flex-start;
     color: #777777;
     font-size: 14px;
 }
 .Services_item:last-child {
-    display:flex;
-    alight-item:flex-start;
     margin-left: 60px;
 }
 
 .Services_item:nth-child(2) {
-    display:flex;
-    alight-item:flex-start;
     margin-left: 60px;
 }
 
