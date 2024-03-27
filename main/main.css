@@ -50,6 +50,7 @@ nav {
 }
 
 .menu a {
+    margin: 40px;
     color: #fff;
     text-decoration: none;
     text-transform: uppercase;
