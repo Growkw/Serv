@@ -21,6 +21,8 @@ div {
 }
 
 .container {
+    display: flex;
+    flex-wpar:wpap
     width: 930px;
     border: 10px;
     margin: 0 auto;
