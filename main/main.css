@@ -21,7 +21,8 @@ div {
 }
 
 .container {
-    width: 930px;
+    display: flex;
+    flex-wrap:wrap;
     border: 10px;
     margin: 0 auto;
 }
