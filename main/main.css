@@ -133,6 +133,11 @@ h1 {
     margin-left: 60px;
 }
 
+element.style {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
 /*Стили для футера*/
 
 .wrapper {
