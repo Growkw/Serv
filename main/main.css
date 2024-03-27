@@ -56,9 +56,11 @@ nav {
 }
 
 .titles {
-     display: flex;
-    flex-wpar:wpap;
+    display: flex;
+    flex-wpar:wrap;
 .titles_first {
+    display: flex;
+    flex-wpar:wrap;
     font-size: 40px;
     color: #fff;
     text-transform: uppercase;
